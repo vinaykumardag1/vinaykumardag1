@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on small startup<br>👯 I’m looking to collaborate on fullstack development<br>🤝 I’m looking for help with for a job<br>🌱 I’m currently learning fullstack development<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on small startup<br>👯 I’m looking to collaborate on fullstack development<br>🤝 I’m looking for help with for a job<br>🌱 I'have learned fullstack development<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
